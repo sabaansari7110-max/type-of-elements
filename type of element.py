@@ -5,3 +5,5 @@ print(type(tup[1]))
 print(type(tup[2]))
 print(type(tup[3]))
 
+output:-
+<class "int">
