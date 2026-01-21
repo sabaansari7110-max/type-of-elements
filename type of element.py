@@ -8,4 +8,5 @@ print(type(tup[3]))
 output:-
 <class "int">
 <class "str">
-
+<class "float">
+<class "bool">
