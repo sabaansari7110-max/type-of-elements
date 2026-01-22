@@ -1,4 +1,4 @@
-tup= (1, "hello", 3.5, True)
+tup= (1, "hello", 3.5, True, 13)
 
 print(type(tup[0]))
 print(type(tup[1]))
@@ -10,3 +10,4 @@ output:-
 <class "str">
 <class "float">
 <class "bool">
+<class "int">
